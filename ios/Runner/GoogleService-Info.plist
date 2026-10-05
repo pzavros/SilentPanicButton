@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCvTOTe-3jOS2I1K_IP2wjxrbjD32af4K8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>496108029381</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.silentpanic.silentPanicButton</string>
+	<key>PROJECT_ID</key>
+	<string>silent-panic-button</string>
+	<key>STORAGE_BUCKET</key>
+	<string>silent-panic-button.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:496108029381:ios:7020d7712ac24da8b4b7ac</string>
+</dict>
+</plist>
